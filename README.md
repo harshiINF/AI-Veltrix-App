@@ -8,6 +8,12 @@
 
 ---
 
+## 🖥️ UI Preview
+
+![AI Veltrix UI Preview](assets/screenshot.png)
+
+---
+
 ## ✨ Key Features
 
 - ☁️ **Hybrid Cloud/Local Intelligence**: Uses `openai/gpt-oss-120b` for complex reasoning and automatically falls back to a 3B Local LLM if the cloud is unavailable.
